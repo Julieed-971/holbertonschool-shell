@@ -1,1 +1,1 @@
-The holbertonschool-shell repository contains many files which describe various shell commands.
+The holbertonschool-shell repository contains many files which are scripts for various shell commands.
