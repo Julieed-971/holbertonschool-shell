@@ -1,2 +1,2 @@
 #!/bin/bash
-install -m 751 permissions/my_dir
+mkdir -m 751 /permissions/my_dir
