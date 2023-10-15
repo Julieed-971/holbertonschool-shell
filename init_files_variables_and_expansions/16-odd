@@ -1,2 +1,2 @@
 #!/bin/bash
-cat | grep -E "^[[:space:]]*[0-9]*[02468][[:space:]]" | cut -f2
+grep -E "^[0-9]*[02468]:"
